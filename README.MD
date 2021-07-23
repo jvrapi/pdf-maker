@@ -42,7 +42,7 @@ $ yarn dev or npm run dev
 The database url must be configured into `.env` file. Just rename the `.env.example` file to `.env` and configure your database url.
 
 ## 📝 License
-This project is under the MIT license. See the LICENSE for more information.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
 
 ---
 
